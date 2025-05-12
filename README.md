@@ -1,4 +1,8 @@
 # Awesome Multivariate Time Series anomaly detection Papers
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms)
+
+## Description
+This repository contains a reading list of papers on **Time Series Segmentation**. **This repository is still being continuously improved.**
 
 ## 2025
 
