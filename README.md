@@ -254,6 +254,64 @@
 | 2023 | TNNLS                   | Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection                                  | [CST-GL](https://github.com/huankoh/CST-GL)                                             |
 | 2023 | World Wide Web                  | HAN-CAD hierarchical attention network for context anomaly detection in multivariate time series                                    | None                                                                                                                 |
 
+## 2022
+| Year | Venue                            | Paper Title and Paper Interpretation                         | Code                                                         |
+| :--- | :------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2022 | *KDD '22*                        | Fast Mining and Forecasting of Co-evolving Epidemiological Data Streams 🌟 | None                                                         |
+| 2022 | *KDD '22*                        | Local Evaluation of Time Series Anomaly Detection Algorithms | [affiliation-metrics-py](https://figshare.com/articles/software/affiliation-metrics-py/19131425) |
+| 2022 | *KDD '22*                        | Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series | [FuSAGNet](https://github.com/sihohan/FuSAGNet)              |
+| 2022 | *KDD '22*                        | Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream | [ARCUS](https://github.com/kaist-dmlab/ARCUS)                |
+| 2022 | *KDD '22*                        | CAT Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences | None                                                         |
+| 2022 | *VLDB '22*                       | TranAD Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data | [TranAD](https://github.com/imperial-qore/TranAD)            |
+| 2022 | *VLDB '22*                       | TSB-UAD: An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection | [TSB-UAD](https://github.com/TheDatumOrg/TSB-UAD)            |
+| 2022 | *VLDB '22*                       | Volume Under the Surface: A New Accuracy Evaluation Measure for Time-Series Anomaly Detection | [VUS](https://github.com/TheDatumOrg/VUS)                    |
+| 2022 | *VLDB J '22*                     | A survey on outlier explanations                             | None                                                         |
+| 2022 | *VLDB '22*                       | A New Distributional Treatment for Time Series and An Anomaly Detection Investigation | [IDK/TS](https://github.com/IsolationKernel/Codes/tree/main/IDK/TS) |
+| 2022 | *ICLR '22*                       | ANOMALY TRANSFORMER: TIME SERIES ANOMALY DETECTION WITH ASSOCIATION DISCREPANCY | [Anomaly-Transformer](https://github.com/thuml/Anomaly-Transformer) |
+| 2022 | *ICML '22*                       | Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection | [DVGCRN](https://github.com/SigmaLab01/DVGCRN)               |
+| 2022 | *AAAI '22*                       | Towards a Rigorous Evaluation of Time-series Anomaly Detection | None                                                         |
+| 2022 | *AAAI '22*                       | AnomalyKiTS: Anomaly Detection Toolkit for Time Series       | None                                                         |
+| 2022 | *ICDE '22*                       | From Chaos to Clarity: Time Series Anomaly Detection in Astronomical Observations | [AERO](https://github.com/XinliHao/AERO)                     |
+| 2022 | *ICDE '22*                       | Anomaly Detection in Time Series with Robust Variational Quasi-Recurrent Autoencoders | [Bi-VQRAE](https://github.com/tungk/Bi-VQRAE)                |
+| 2022 | *ICDE '22*                       | MAD-SGCN: Multivariate Anomaly Detection with Self-learning Graph Convolutional Networks | None                                                         |
+| 2022 | *KDD Workshop '22*               | Representation Learning Using a Multi-Branch Transformer for Industrial Time Series Anomaly Detection | None                                                         |
+| 2022 | *KDD Workshop '22*               | One-Class Predictive Autoencoder Towards Unsupervised Anomaly Detection on Industrial Time Series | None                                                         |
+| 2022 | *KDD WorkShop '22*               | Towards Explainable Precision Changepoint Detection through Linear Decomposition | None                                                         |
+| 2022 | *CVPR WorkShop '21*              | Spacecraft Time-Series Anomaly Detection Using Transfer Learning | None                                                         |
+| 2022 | *IEEE TKDE '22*                  | Time Series Anomaly Detection with Adversarial Reconstruction Networks | [BeatGAN](https://github.com/BGT-M/spartan2-tutorials/blob/master/BeatGAN.ipynb)![Stars](https://img.shields.io/github/stars/BGT-M/spartan2-tutorials) |
+| 2022 | *IEEE J. Sel. Areas Commun. '22* | Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services | [AnoTransfer-code](https://github.com/alumik/AnoTransfer-code), [AnoTransfer-data](https://github.com/alumik/AnoTransfer-data) |
+| 2022 | *IEEE J. Sel. Areas Commun. '22* | Situation-Aware Multivariate Time Series Anomaly Detection Through Active Learning and Contrast VAE-Based Models in Large Distributed Systems | None                                                         |
+| 2022 | *IEEE TII '22*                   | ArcNet: Series AC Arc Fault Detection Based on Raw Current and Convolutional Neural Network | None                                                         |
+| 2022 | *IEEE Sens J '22*                | GAN-Based Data Augmentation Strategy for Sensor Anomaly Detection in Industrial Robots | None                                                         |
+| 2022 | *IEEE BigData '22*               | Decomposed Transformer with Frequency Attention for Multivariate Time Series Anomaly Detection | [DecomposedTransAD](https://github.com/shuxin-qin/DecomposedTransAD) |
+| 2022 | *IEEE BigData '22*               | Verification of Sparsity in the Attention Mechanism of Transformer for Anomaly Detection in Multivariate Time Series | None                                                         |
+| 2022 | *IEEE BigData '22*               | A Semi-Supervised Learning Approach for Abnormal Event Prediction on Large Network Operation Time-Series Data | [semisup-abnormal-event-prediction](https://github.com/knowledge-computing/semisup-abnormal-event-prediction) |
+| 2022 | *IEEE HPCC '22*                  | FedTADBench Federated Time-series Anomaly Detection Benchmark | [FedTADBench](https://github.com/fanxingliu2020/FedTADBench) |
+| 2022 | *IEEE ICTAI '22*                 | A Dilated Transformer Network for Time Series Anomaly Detection | None                                                         |
+| 2022 | *JASA'22*                        | Factor Models for High-Dimensional Tensor Time Series        | None                                                         |
+| 2022 | *MSSP '22*                       | A multivariate time series segmentation algorithm for analyzing the operating statuses of tunnel boring machines | None                                                         |
+| 2022 | *Applied Intelligence '22*       | Change point detection for compositional multivariate data   | None                                                         |
+| 2022 | *ICDM '22*                       | Change Detection with Probabilistic Models on Persistence Diagrams | None                                                         |
+| 2022 | *EAAI '22*                       | Graft : A graph based time series data mining framework      | None                                                         |
+| 2022 | *GLOBECOM '22*                   | Multi-level Contrast Network for Wearables-based Joint Activity Segmentation and Recognition | None                                                         |
+| 2022 | *ESWA '22*                       | Real-time Change-Point Detection A deep neural network-based adaptive approach for detecting changes in multivariate time series data | None                                                         |
+| 2022 | *ESWA '22*                       | A space-embedding strategy for anomaly detection in multivariate time series | [SESAD_V1.0](https://github.com/JakeJiUThealth/SESAD_V1.0)   |
+| 2022 | *Measurement '22*                | Variational transformer-based anomaly detection approach for multivariate time series | None                                                         |
+| 2022 | *Information Sciences '22*       | Contrastive autoencoder for anomaly detection in multivariate time series | None                                                         |
+| 2022 | *Axiv '22*                       | Robust Learning of Deep Time Series Anomaly Detection Models with Contaminated Training Data | None                                                         |
+| 2022 | *Arxiv '22*                      | A Comparative Study on Unsupervised Anomaly Detection for Time Series Experiments and Analysis | [ADTS](https://github.com/yan20191113/ADTS)                  |
+| 2022 | *Arxiv '22*                      | LPC-AD Fast and Accurate Multivariate Time Series Anomaly Detection via Latent Predictive Coding | None                                                         |
+| 2022 | *Arxiv '22*                      | STACKED RESIDUALS OF DYNAMIC LAYERS FOR TIME SERIES ANOMALY DETECTION | None                                                         |
+| 2022 | *KDD Workshop '22*               | Prototypes as Explanation for Time Series Anomaly Detection  | None                                                         |
+| 2022 | *IEEE TIST '22*                  | Generative Adversarial Networks With AdaBoost Ensemble Learning for Anomaly Detection in High-Speed Train Automatic Doors | None                                                         |
+| 2022 | *TII '23*                        | Learning Hierarchical Spatial-Temporal Graph Representations for Robust Multivariate Industrial Anomaly Detection | None                                                         |
+| 2022 | *TIM '22*                        | Satellite Telemetry Data Anomaly Detection Using Causal Network and Feature-Attention-Based LSTM | None                                                         |
+| 2022 | *TNSE '22*                       | Robust Group Anomaly Detection for Quasi-Periodic Network Time Series | None                                                         |
+| 2022 | *TNSE '22*                       | TimeAutoAD Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series | None                                                         |
+| 2022 | *WWW '22*                        | A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems | None                                                         |
+| 2022 | *KDD Workshop '22*               | Towards Explainable Precision Changepoint Detection through Linear Decomposition | None                                                         |
+| 2022 | *JMLR proceeding '22*            | MGADN A Multi-task Graph Anomaly Detection Network for Multivariate Time Series | None                                                         |
+
 ## 2021
 
 | Year | Venue                            | Paper Title and Paper Interpretation                         | Code                                                         |
