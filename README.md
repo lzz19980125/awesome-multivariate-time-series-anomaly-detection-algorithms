@@ -115,7 +115,6 @@ This repository contains a reading list of papers on **multivariate time series 
 | 2024 | *Arxiv '24*                  | TimeSeriesBench An Industrial-Grade Benchmark for Time Series Anomaly Detection Models                                                | [EasyTSAD](https://github.com/dawnvince/EasyTSAD)                                                                                        |
 | 2024 | *Arxiv '24*                  | QUADFormer Learning-based Detection of Cyber Attacks in Quadrotor UAVs                                                                | None                                                                                                                                     |
 | 2024 | *Arxiv '24*                  | Entropy Causal Graphs for Multivariate Time Series Anomaly Detection                                                                  | [CGAD](https://github.com/falihgoz/CGAD)                                                                           |
-| 2024 | *KBS '24 审稿*               | Meta Variational Memory Transformer for Anomaly Detection of Multivariate Time Series                                                 | None                                                                                                                                     |
 
 ## 2023
 
